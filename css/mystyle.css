@@ -1,0 +1,61 @@
+.signup-heading{
+
+margin-top: 150px;
+
+color: white;
+
+font-size: 26px;
+padding: 5% 60% 5% 7%;
+background-color: #a87226;
+ letter-spacing: 1px;
+
+  }  
+.form-margin{
+margin-top: 50px;
+}
+  .signup-statment{
+
+  font-family: 'Josefin Sans', sans-serif;
+  	border-bottom: 1px solid #d9d9d9;
+    color: #333;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 50px 0px 20px 0px;
+
+    text-transform: capitalize
+
+  }
+  #success_message{ display: none;}
+  .signup-form{
+  	padding-left: 35px;
+  	
+  	padding-right:200px;
+  	  
+    
+  }
+  .signup-email{
+  	margin-top: 10px;
+  }
+  .button-submit{
+  display: block;
+    font-family: 'Josefin Sans', sans-serif;
+    background: #fff;
+    padding: 5px 30px;
+    text-align: center;
+    white-space: nowrap;
+    color: #333;
+    text-decoration: none;
+    border: 2px solid #333;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 22px;
+
+  }
+.button-submit:hover{
+
+	  
+	  color: 514A4A;}
+	  .signin_p{
+	  	width: 200px;
+	  	 font-family: 'Josefin Sans', sans-serif;
+	  } 

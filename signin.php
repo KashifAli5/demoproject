@@ -4,10 +4,10 @@
 <html>
 <head>
 <title> sign up page </title>
-<link rel="stylesheet" type="text/css" href="Include/css/mystyle.css">
-<link rel="stylesheet" type="text/css" href="Include/css/bootstrap.min.css">
-<script type="text/javascript" src="include/js/jquery.js"></script>
-<script type="text/javascript" src="include/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/mystyle.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
 
 </head>
 <body>
